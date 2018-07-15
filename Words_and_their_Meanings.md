@@ -92,3 +92,26 @@ verb
         synonyms:	amuse greatly, convulse with mirth/laughter, entertain greatly, make someone laugh; informalhave people rolling in the aisles, make someone crack up, kill, knock dead, be the death of, wow, be a hit with;
         informalcrease up
         "you slay me, you really do"
+
+## pall ##
+### pɔːl/ ###
+noun
+#### noun: pall; plural noun: palls ####
+
+    1.
+    a cloth spread over a coffin, hearse, or tomb.
+    synonyms:	funeral cloth, coffin covering
+    "the coffin lay under a rich velvet pall"
+    2.
+    a dark cloud of smoke, dust, etc.
+    "a pall of black smoke hung over the quarry"
+    synonyms:	cloud, covering, cloak, mantle, veil, shroud, layer, blanket, sheet, curtain, canopy
+    "a pall of black smoke hung over the quarry"
+        something regarded as enveloping a situation with an air of gloom or fear.
+        "torture and murder have cast a pall of terror over the villages"
+        synonyms:	spoil, take the fun/enjoyment/pleasure out of, cast a shadow over, overshadow, envelop in gloom, darken, cloud, put a damper on, mar, blight
+        "the news cast a pall over the occasion"
+    3.
+    an ecclesiastical pallium.
+        Heraldry
+        a Y-shaped charge representing the front of an ecclesiastical pallium.
