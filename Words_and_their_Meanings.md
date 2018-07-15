@@ -57,3 +57,38 @@ noun
 
     a back or side entrance.
     "a small postern door"
+		
+## slain ##
+### sleɪn/ ###
+
+    #### past participle of slay1. ####
+
+## slay1 ##
+### sleɪ/ ###
+verb
+#### past participle: slain ####
+
+    archaicliterary
+    kill (a person or animal) in a violent way.
+    "St George slew the dragon"
+    synonyms:	kill, murder, put to death, do to death, put to the sword, butcher, cut down, cut to pieces, slaughter, massacre, shoot down, gun down, mow down, assassinate, execute, dispatch, destroy, eliminate, annihilate, exterminate, dispose of; More
+    informalwipe out, take out, bump off, do in, do for, rub out, top, wipe off the face of the earth, blow away, liquidate, stiff;
+    informalwaste, smoke, ice, off
+    "8,000 men from the regiment were slain"
+    murder, killing, homicide, putting to death, execution, butchery, slaughter, massacre, assassination, dispatch, destruction, extermination;
+    informalliquidation;
+    raremactation
+    "the gruesome slaying of eleven youngsters"
+        North American
+        murder (someone) (used chiefly in journalism).
+        "a man was slain with a shotgun"
+        synonyms:	kill, murder, put to death, do to death, put to the sword, butcher, cut down, cut to pieces, slaughter, massacre, shoot down, gun down, mow down, assassinate, execute, dispatch, destroy, eliminate, annihilate, exterminate, dispose of; More
+        informalwipe out, take out, bump off, do in, do for, rub out, top, wipe off the face of the earth, blow away, liquidate, stiff;
+        informalwaste, smoke, ice, off
+        "8,000 men from the regiment were slain"
+        informal
+        greatly impress or amuse (someone).
+        "you slay me, you really do"
+        synonyms:	amuse greatly, convulse with mirth/laughter, entertain greatly, make someone laugh; informalhave people rolling in the aisles, make someone crack up, kill, knock dead, be the death of, wow, be a hit with;
+        informalcrease up
+        "you slay me, you really do"
