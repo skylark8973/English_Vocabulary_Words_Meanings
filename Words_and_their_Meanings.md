@@ -49,3 +49,11 @@ adjective
     rareventurous
     "the intrepid band braved a precipitous mountain track"
     antonyms:	fearful, cowardly
+
+## postern ##
+### ˈpɒst(ə)n,ˈpəʊst(ə)n/ ###
+noun
+#### noun: postern; plural noun: posterns ####
+
+    a back or side entrance.
+    "a small postern door"
