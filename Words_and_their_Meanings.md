@@ -115,3 +115,23 @@ noun
     an ecclesiastical pallium.
         Heraldry
         a Y-shaped charge representing the front of an ecclesiastical pallium.
+
+## uproot ##
+### ʌpˈruːt/ ###
+verb
+#### verb: uproot; 3rd person present: uproots; past tense: uprooted; past participle: uprooted; gerund or present participle: uprooting ####
+
+    1.
+    pull (something, especially a tree or plant) out of the ground.
+    "the elephant's trunk is powerful enough to uproot trees"
+    synonyms:	pull up, root out, take out, rip out/up, tear up by the roots, grub out/up; rarederacinate
+    "don't pick or uproot wild flowers"
+    antonyms:	plant
+        remove or destroy completely; eradicate.
+        "a revolution is necessary to uproot the social order"
+        synonyms:	eradicate, get rid of, eliminate, root out, weed out, remove, destroy, put an end to, do away with, wipe out, stamp out, extirpate, abolish, extinguish
+        "a revolution is necessary to uproot the social order"
+        antonyms:	establish
+    2.
+    move (someone) from their home or a familiar location.
+    "my father travelled constantly and uprooted his family several times"
