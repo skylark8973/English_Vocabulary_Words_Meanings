@@ -35,3 +35,17 @@ noun
 
     a person's bottom.
     "you're picky about the music you firm your booty to"
+
+## intrepid ##
+### ɪnˈtrɛpɪd/ ###
+adjective
+#### adjective: intrepid ####
+
+    fearless; adventurous (often used for rhetorical or humorous effect).
+    "our intrepid reporter"
+    synonyms:	fearless, unafraid, undaunted, dauntless, undismayed, unalarmed, unflinching, unshrinking, unblenching, unabashed, bold, daring, audacious, adventurous, dashing, heroic, dynamic, spirited, mettlesome, confident, indomitable; brave, courageous, valiant, valorous, stout-hearted, lionhearted, stalwart, plucky;
+    informalgutsy, spunky, game, ballsy, go-ahead, have-a-go;
+    archaicdoughty;
+    rareventurous
+    "the intrepid band braved a precipitous mountain track"
+    antonyms:	fearful, cowardly
