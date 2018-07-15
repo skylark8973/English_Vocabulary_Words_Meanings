@@ -204,3 +204,93 @@ verb
         found or establish (a colony, city, or community).
         "he was commissioned to plant the order in England"
         deposit (young fish, spawn, oysters, etc.) in a river or lake.
+				
+## hung ##
+### hʌŋ/ ###
+verb
+
+    1.
+    #### past and past participle of hang. ####
+
+adjective
+#### adjective: hung ####
+
+    1.
+    (of an elected body) having no political party with an overall majority.
+    "a hung parliament"
+        (of a jury) unable to agree on a verdict.
+    2.
+    informal
+    emotionally confused or disturbed.
+    "people are hung up in all sorts of ways"
+        obsessed with or worried about.
+        "guys are so hung up about the way they look"
+    3.
+    informal
+    used in similes to refer to the size of a man's genitals.
+    "he's hung like a horse"
+
+## hang ##
+### haŋ/ ###
+verb
+#### past tense: hung; past participle: hung ####
+
+    1.
+    suspend or be suspended from above with the lower part dangling free.
+    "that's where people are supposed to hang their washing"
+    synonyms:	be suspended, hang down, be pendent, dangle, swing, sway; archaicdepend
+    "lanterns hung from the ridgepole of the tent"
+    antonyms:	rise
+        attach or be attached to a hook on a wall.
+        "we could just hang the pictures on the walls"
+        synonyms:	put up, fix, attach, affix, fasten, post, display, suspend, stick up, pin up, tack up, nail up, put on a hook
+        "it's best to hang your pictures at eye level"
+        antonyms:	take down
+        be adorned with (pictures or other decorations).
+        "the walls of her hall were hung with examples of her work"
+        synonyms:	decorate, adorn, drape, festoon, deck out, trick out, bedeck, array, furnish, garland, swathe, cover, ornament; More
+        informalget up, do up, do out, tart up;
+        literarybedizen, caparison, furbelow
+        "the room was hung with banners and streamers"
+        attach or be attached so as to allow free movement about the point of attachment.
+        "a long time was spent hanging a couple of doors"
+        attach (meat or game) to a hook and leave it until dry, tender, or high.
+        "venison needs to be hung for a minimum of seven days"
+        (of fabric or a garment) fall or drape from a fixed point in a specified way.
+        "this blend of silk and wool hangs well and resists creases"
+        paste (wallpaper) to a wall.
+        "if you're using lining paper, hang it horizontally"
+        synonyms:	paste up, glue on, stick up, fasten on, fix on, attach
+        "size the wall before you hang the wallpaper"
+        antonyms:	peel off
+    2.
+    kill (someone) by tying a rope attached from above around their neck and removing the support from beneath them (often used as a form of capital punishment).
+    "he was hanged for murder"
+    synonyms:	execute by hanging, hang by the neck, send to the gallows, send to the gibbet, send to the scaffold, gibbet, put to death; More
+    lynch;
+    informalstring up
+    "they hanged the prisoners at a triple gallows"
+        be killed by hanging.
+        "both men were sentenced to hang"
+        dated
+        used in expressions as a mild oath.
+        "they could all go hang"
+    3.
+    remain static in the air.
+    "a black pall of smoke hung over Valletta"
+    synonyms:	hover, float, drift, linger, remain static, be suspended, be poised
+    "pollutants hang in the air over the motorway"
+    antonyms:	be dispersed
+        be present or imminent, especially oppressively or threateningly.
+        "a sense of dread hung over him for days"
+    4.
+    Computing
+    come or cause to come unexpectedly to a state in which no further operations can be carried out.
+    "the machine has hung"
+    5.
+    Baseball
+    deliver (a pitch) which does not change direction and is easily hit by a batter.
+    "this leads to hanging a breaking ball"
+    6.
+    North American
+    informal way of saying hang around (sense 2) or hang out (sense 3).
