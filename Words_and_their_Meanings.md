@@ -135,3 +135,72 @@ verb
     2.
     move (someone) from their home or a familiar location.
     "my father travelled constantly and uprooted his family several times"
+
+## plant ##
+### plɑːnt/ ###
+noun
+#### noun: plant; plural noun: plants ####
+
+    1.
+    a living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots, and synthesizing nutrients in its leaves by photosynthesis using the green pigment chlorophyll.
+    synonyms:	herb, flower, vegetable, shrub, weed; More
+    greenery, flora, vegetation, undergrowth;
+    rareherbage, verdure
+    "a pot plant"
+        a small plant, as distinct from a shrub or tree.
+        "garden plants"
+    2.
+    a place where an industrial or manufacturing process takes place.
+    "a giant car plant"
+    synonyms:	factory, works, foundry, mill, workshop, shop, yard, industrial unit, business unit
+    "the plant commenced production in June"
+        machinery used in an industrial or manufacturing process.
+        "inadequate investment in new plant"
+        synonyms:	machinery, machines, equipment, apparatus, appliances, gear
+        "there has been inadequate investment in new plant"
+    3.
+    a person placed in a group as a spy or informer.
+    "we thought he was a CIA plant spreading disinformation"
+    synonyms:	spy, informant, informer, undercover agent, secret agent, agent, mole, infiltrator, operative; informalspook
+    "we thought he was a CIA plant spreading disinformation"
+        a thing put among someone's belongings to incriminate or compromise them.
+    4.
+    Snooker
+    a shot in which the cue ball is made to strike one of two touching or nearly touching balls with the result that the second is potted.
+
+verb
+### verb: plant; 3rd person present: plants; past tense: planted; past participle: planted; gerund or present participle: planting ###
+
+    1.
+    put (a seed, bulb, or plant) in the ground so that it can grow.
+    "we planted a lot of fruit trees"
+    synonyms:	sow, scatter, seed, put in the ground; bed out, set out, transplant
+    "plant the seeds this autumn and they will flower next summer"
+        cover or supply (an area of land) with plants.
+        "the garden is planted with herbs"
+        place a plant in the ground out of doors so it can grow, especially after growing it from seed in an indoor environment.
+        "the foxgloves are grown from seed and planted out in the autumn"
+        informal
+        bury (someone).
+        "it was raining when we planted him"
+    2.
+    set or place in a particular position.
+    "he planted himself squarely in front of her"
+    synonyms:	put, place, set, position, station, situate, settle, stick, fix; informalplonk
+    "he planted his feet more firmly on the ground"
+        establish (an idea) in someone's mind.
+        "the seed of doubt is planted in his mind"
+        synonyms:	insert, impress, imprint, instil, put, place; More
+        implant, introduce, sow the seeds of, fix, establish, embed, root, lodge
+        "someone had planted the idea in Alexander's mind"
+        secretly place (a bomb that is set to go off at a later time).
+        "several incendiary devices were planted in stores"
+        put or hide (something) among someone's belongings to compromise or incriminate the owner.
+        "they claimed that the drugs had been planted on them by police"
+        synonyms:	hide, place secretly, conceal, secrete
+        "the letters might have been planted there to embarrass the government"
+        send (someone) to join a group or organization to act as a spy or informer.
+        "he managed to plant an agent in his war council"
+        found or establish (a colony, city, or community).
+        "he was commissioned to plant the order in England"
+        deposit (young fish, spawn, oysters, etc.) in a river or lake.
