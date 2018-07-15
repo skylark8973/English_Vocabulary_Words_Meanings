@@ -16,3 +16,22 @@ verb
     2.
     cause (a piece of text) to appear in a bold typeface.
     "centre, embolden, and underline the heading"
+	
+## booty ##
+### ˈbuːti/ ###
+noun
+#### noun: booty ####
+
+    valuable stolen goods, especially those seized in war.
+    synonyms:	loot, plunder, pillage, haul, prize, trophy; spoils, stolen goods, gains, ill-gotten gains, profits, pickings, takings, winnings;
+    informalswag, boodle, the goods
+    "the robbers met up and split the booty"
+        informal
+        something gained or won.
+        "the company has still got warehousefuls of money in the bank, thanks to the booty from earlier capital-raising exercises"
+        synonyms:	loot, plunder, pillage, haul, prize, trophy; spoils, stolen goods, gains, ill-gotten gains, profits, pickings, takings, winnings;
+        informalswag, boodle, the goods
+        "the robbers met up and split the booty"
+
+    a person's bottom.
+    "you're picky about the music you firm your booty to"
